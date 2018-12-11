@@ -1,2 +1,2 @@
 echo "Hello From Jenkins %date%:%time%"
-i am in Master Branch....
+echo "i am in Master Branch...."
